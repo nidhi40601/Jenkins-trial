@@ -1,1 +1,1 @@
-console.log("Hello...Welcome to first Jenkins project...")
+console.log("Hello...Welcome to first Jenkins project")
